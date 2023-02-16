@@ -1,0 +1,18 @@
+Sell:
+1. Close price is below SMA20
+2. Close price is below SMA50
+3. Dead cross SMA 10/20/50
+4. MACD downward cross.
+5.Ignore MACD downward cross if SMAs are trending up or show golden cross.
+6. Close price is below SMA100 -- Clear volume
+7. Downward pattern.
+8. After huge volume at top.
+
+Buy:
+1. Close price SMA10 cross over SMA20
+2. Gold cross SMA 20/50/100
+3. MACD upward cross.
+4. Ignore MACD upward cross while SMAs is trending down.
+5. SMA100 is trending up. close price gets support at SMA20 or SMA50
+6. Upward pattern.
+7. After huge volume at bottom. 

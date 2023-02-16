@@ -1,0 +1,2 @@
+https://www.kaggle.com/code/makgiba/backtesting-with-macd-sony-stock#Check-data
+https://www.quantstart.com/articles/Backtesting-a-Moving-Average-Crossover-in-Python-with-pandas/
